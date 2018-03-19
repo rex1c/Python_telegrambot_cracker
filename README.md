@@ -2,4 +2,7 @@
 
 server_bot.py is an python script for cracking (Facebook-twitter-Ymail-Gmail-vps-wordpress-joomla) via telegram_bot
 
-I believe in "pyhton"
+[+] requirements: ftplib,paramiko,telegram.ext
+
+[+] thanks @zero_d4y
+ 

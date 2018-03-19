@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 from scapy.all import *
 iface = "en0" fake_ip = '00.00.00.00' destination_ip = '250.250.250.250'
 

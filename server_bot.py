@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 from telegram.ext import CommandHandler,Updater
 import poplib, imaplib, smtplib
 from imaplib import IMAP4

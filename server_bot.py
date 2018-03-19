@@ -12,7 +12,7 @@ import requests
 import paramiko
 import ftplib
 
-update = Updater("511416898:AAGqWX1H6cdC2rL9kajXDhszu-y50WJGEN8")
+update = Updater("API")
 
 
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 from telegram.ext import Updater , CommandHandler
 import random
 import sys

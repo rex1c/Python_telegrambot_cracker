@@ -5,7 +5,7 @@ import sys
 import urllib
 import urllib2
 
-update = Updater("528743969:AAGWPPy9VrusQKIGE0C1KN1r23NNE05i3RA")
+update = Updater("API")
 
 chat_id = update.message.chat_id
 
